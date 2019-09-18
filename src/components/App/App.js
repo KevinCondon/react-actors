@@ -12,7 +12,7 @@ class App extends Component {
         <Header />
         <About />
         <Contact />
-        {/* <Footer /> */}
+        {/* NOTHING TO ADD */}
       </div>
     );
   }
